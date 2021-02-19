@@ -28,4 +28,5 @@ Flow
    git add .
    git commit -m "<commit_message>"
    git push heroku <main_branch_name>
+   heroku open
    ```
