@@ -7,10 +7,10 @@ var path = require('path');
 var config = {
 
   // Your site title (format: page_title - site_title)
-  site_title: 'Raneto Docs',
+  site_title: '寻向知识库',
 
   // The base URL of your site (can use %base_url% in Markdown files)
-  base_url: '',
+  base_url: 'https://desolate-scrubland-65840.herokuapp.com/',
   nowrap: true,
 
   // Used for the "Get in touch" page footer link
@@ -109,8 +109,8 @@ var config = {
 
   // Edit Home Page title, description, etc.
   home_meta : {
-    // title       : 'Custom Home Title',
-    // description : 'Custom Home Description'
+    // title       : '',
+    // description : ''
   },
 
   // variables: [
